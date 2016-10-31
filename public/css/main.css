@@ -19,6 +19,9 @@
 .slider-tick {
 	    opacity: 1;
 }
+.slide-tick-label {
+	width: 33.3%;
+}
 #profile {
 	width: 33.3%;
 }
