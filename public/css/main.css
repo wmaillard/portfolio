@@ -20,8 +20,8 @@
 	    opacity: 1;
 }
 .slide-tick-label {
-	width: 33.3%;
+	width: 33.3% !important;
 }
 #profile {
-	width: 33.3% !important;
+	width: 33.3%;
 }
