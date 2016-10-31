@@ -39,6 +39,10 @@
         }).on("blur", ".floating-label-form-group", function() {
             $(this).removeClass("floating-label-form-group-with-focus");
         });
+        console.log('yo');
     });
+
+
+
 
 })(jQuery); // End of use strict

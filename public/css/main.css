@@ -1,0 +1,21 @@
+.slider-selection {
+	background: #7C9FFF;
+}
+.slider.slider-disabled .slider-handle {
+	background: #2C64FC;
+	background-image: none;
+    background-repeat: none;
+}
+  .slider.slider-horizontal {
+    width:75%;
+  }
+.slider.slider-horizontal .slider-track {
+	height: 5px;
+	margin-top: -2.5px
+}
+.skills-slider{
+	margin-top: 3%;
+}
+.slider-tick {
+	    opacity: 1;
+}
