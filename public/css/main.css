@@ -25,3 +25,7 @@
 #profile {
 	width: 33.3%;
 }
+#starBlue:after {
+
+	background-color: #2C3E50 !important;
+}
