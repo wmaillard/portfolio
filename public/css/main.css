@@ -29,3 +29,6 @@
 
 	background-color: #2C3E50 !important;
 }
+.slider-tick-container, .slider-handle {
+	display: none;
+}
